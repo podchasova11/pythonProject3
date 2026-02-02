@@ -9,6 +9,7 @@ print([age, name, is_student, temperature])
 x = 10
 x = 20
 
+
 a, b = 15, 20
 print(a + b)
 print(b - a)
